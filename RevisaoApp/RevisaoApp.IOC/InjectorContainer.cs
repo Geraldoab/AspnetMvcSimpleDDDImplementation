@@ -1,4 +1,6 @@
-﻿using RevisaoApp.Domain.Interfaces.Repositories;
+﻿using RevisaoApp.Application.Interfaces;
+using RevisaoApp.Application.Services;
+using RevisaoApp.Domain.Interfaces.Repositories;
 using RevisaoApp.Domain.Interfaces.Services;
 using RevisaoApp.Domain.Services;
 using RevisaoApp.Repository.Repositories;
@@ -18,6 +20,8 @@ namespace RevisaoApp.IOC
             container.Options.DefaultScopedLifestyle = new WebRequestLifestyle();
 
             container.Register(typeof(IServiceBase<>), typeof(ServiceBase<>));
+
+            container.Register(typeof(IUsuarioAppService), typeof(UsuarioAppService));
 
             container.Register(typeof(IUsuarioService), typeof(UsuarioService));
 

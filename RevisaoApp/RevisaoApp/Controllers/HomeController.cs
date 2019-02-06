@@ -1,5 +1,5 @@
-﻿using RevisaoApp.Domain.Entities;
-using RevisaoApp.Domain.Interfaces.Services;
+﻿using RevisaoApp.Application.Interfaces;
+using RevisaoApp.Application.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,16 +10,24 @@ namespace RevisaoApp.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly IUsuarioService _usuarioService;
+        private readonly IUsuarioAppService _usuarioService;
         
-        public HomeController(IUsuarioService usuarioService)
+        public HomeController(IUsuarioAppService usuarioService)
         {
             this._usuarioService = usuarioService;
         }
         
         public ActionResult Index()
         {
-            IEnumerable<Usuario> list = _usuarioService.GetAll().ToList();
+            int count = _usuarioService.Count();
+            UsuarioViewModel usuarioViewModel = new UsuarioViewModel();
+            usuarioViewModel.CodigoUsuario = 0;
+            usuarioViewModel.NomeUsuario = "teste";
+
+            _usuarioService.Add(usuarioViewModel);
+
+            count = _usuarioService.Count();
+
             return View();
         }
 

@@ -272,10 +272,6 @@
       <Project>{21271b52-e6d3-49c0-ba27-8b2cbc31acfd}</Project>
       <Name>RevisaoApp.Application</Name>
     </ProjectReference>
-    <ProjectReference Include="..\RevisaoApp.Domain\RevisaoApp.Domain.csproj">
-      <Project>{5e5fa448-ac35-43b3-bc90-f024f243e6ec}</Project>
-      <Name>RevisaoApp.Domain</Name>
-    </ProjectReference>
     <ProjectReference Include="..\RevisaoApp.IOC\RevisaoApp.IOC.csproj">
       <Project>{d0e9644e-0e68-4469-acb4-3b91e15c6b1b}</Project>
       <Name>RevisaoApp.IOC</Name>
