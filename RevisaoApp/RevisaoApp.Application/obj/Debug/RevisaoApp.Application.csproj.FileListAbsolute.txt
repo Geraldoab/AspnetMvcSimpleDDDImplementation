@@ -1,0 +1,10 @@
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Application\bin\Debug\RevisaoApp.Application.dll
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Application\bin\Debug\RevisaoApp.Application.pdb
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Application\bin\Debug\RevisaoApp.Domain.dll
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Application\bin\Debug\RevisaoApp.Domain.pdb
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Application\bin\Debug\RevisaoApp.Domain.dll.config
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Application\obj\Debug\RevisaoApp.Application.csprojAssemblyReference.cache
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Application\obj\Debug\RevisaoApp.Application.csproj.CoreCompileInputs.cache
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Application\obj\Debug\RevisaoApp.Application.csproj.CopyComplete
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Application\obj\Debug\RevisaoApp.Application.dll
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Application\obj\Debug\RevisaoApp.Application.pdb

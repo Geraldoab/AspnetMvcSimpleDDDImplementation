@@ -1,0 +1,12 @@
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\bin\Debug\RevisaoApp.Domain.dll.config
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\bin\Debug\RevisaoApp.Domain.dll
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\bin\Debug\RevisaoApp.Domain.pdb
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\bin\Debug\EntityFramework.dll
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\bin\Debug\EntityFramework.xml
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\obj\Debug\RevisaoApp.Domain.csprojAssemblyReference.cache
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\obj\Debug\RevisaoApp.Domain.csproj.CoreCompileInputs.cache
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\obj\Debug\RevisaoApp.Domain.csproj.CopyComplete
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\obj\Debug\RevisaoApp.Domain.dll
+D:\Users\geraldo.borges\Documents\Projetos\Treino\RevisaoApp\RevisaoApp.Domain\obj\Debug\RevisaoApp.Domain.pdb
